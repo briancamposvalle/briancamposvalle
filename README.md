@@ -1,4 +1,5 @@
-### Hi there 👋
+## Brian Jair Campos Valle 👋
+### Ing. en Comunicaciones y Electrónica 
 
 <!--
 **briancamposvalle/briancamposvalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
